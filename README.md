@@ -15,3 +15,6 @@ ex: TextProcessor.exe UPDATE C:/01/txt.txt<br/>
 
 CLEANUP - удалить данные из словаря  
 ex: TextProcessor.exe CLEANUP
+
+
+Для тестов можно использовать файл text.txt
