@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
